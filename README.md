@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/cartoon-illustration-boy-with-glasses-working-laptop_835197-5825.jpg?w=826">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravilpatel" alt="ravilpatel" /></a> </p>
+
 
 - 🔭 I’m currently working on [DOSPDP Project](https://colonelvyas.org)
 
